@@ -20,3 +20,4 @@
   * [13. Estrategias de Adopción del Certificado](fase-5-lanzamiento-y-escalabilidad/13.-estrategias-de-adopcion-del-certificado.md)
   * [14. Monitoreo y Mejora Continua](fase-5-lanzamiento-y-escalabilidad/14.-monitoreo-y-mejora-continua.md)
 * [Resumen](resumen.md)
+* [HumanCore](humancore.md)
